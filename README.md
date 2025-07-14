@@ -6,6 +6,10 @@ This project is a solution for the [Frontend Mentor | QR code component](https:/
 
 The goal was to build a responsive QR code component as close to the design as possible. The project uses pure HTML and CSS (normalize.css + main.css) and the Outfit font from Google Fonts. All elements are implemented according to the original layout.
 
+## Live Demo
+
+👉 **[View deployed project](https://vitali-lavau.github.io/qr-code-component/)**
+
 ## Screenshot
 
 ![Component preview](./images/image-qr-code.png)
